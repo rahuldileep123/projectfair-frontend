@@ -1,0 +1,1 @@
+export const SERVER_URL="https://projectfair-server-j5f5.onrender.com"
